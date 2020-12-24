@@ -1,0 +1,3 @@
+# Restaurant-Manager
+Duomenų failai randasi "Restaurant Manager\Restaurant Manager\bin\Debug\netcoreapp3.1\Data", ir jie turi būti ten, kad ir tušti, kad veiktų...
+Region format "English (United States)", kitaip problemos su CSV nuskaitymų.
